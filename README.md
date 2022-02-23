@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanVdCG
-- 👀 I’m interested in coding an app/game and more.
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on making an app/game
+- 👀 I’m interested in coding an app/game and more and scripts for minecraft...
+- 🌱 I’m currently learning C# (and skript for minecraft)
+- 💞️ I’m looking to collaborate on making an app/game (a skript for minecraft)
 - 📫 How to reach me : discord SciTechMC(Jan)#5957, or email jan.vdcg@gmail.com
 
 <!---
